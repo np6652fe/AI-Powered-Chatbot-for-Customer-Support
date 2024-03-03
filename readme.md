@@ -1,0 +1,1 @@
+This chatbot uses natural language processing and machine learning to provide automated customer support and assistance, handling inquiries, resolving issues, and guiding users through troubleshooting steps.
